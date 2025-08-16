@@ -1,0 +1,1 @@
+c:\Users\danie\OneDrive\Plocha\RTS PROJECT\index.html c:\Users\danie\OneDrive\Plocha\RTS PROJECT\script.js c:\Users\danie\OneDrive\Plocha\RTS PROJECT\style.css

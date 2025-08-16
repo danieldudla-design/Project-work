@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    /* font-family: "Inter", sans-serif; */
+    font-family: "Inter", sans-serif;
+    font-size: 40px;
+}
+
+body {}
+
+section {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    min-height: 100vh;
+}
+
+#main {
+
+    background-image: url(img/bgABOUT.png);
+
+    .main-block {
+        background-image: url(img/bgMAIN.png);
+        height: 100vh;
+    }
+}
+
+
+.main-block,
+.skills-block,
+.works-block,
+.comments-block,
+.about-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 70vh;
+}
