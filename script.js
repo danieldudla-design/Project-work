@@ -47,3 +47,16 @@ window.onscroll = function () {
         activeBtn.classList.remove("active")
     }
 }
+
+
+document.querySelector(".mobile-button").addEventListener("click",
+     function (event) {
+        document.querySelector(".mobile-menu").classList.toggle("u-hide");
+        document.querySelector(".mobile-button").classList.toggle("close");
+    }
+)
+
+
+
+
+
